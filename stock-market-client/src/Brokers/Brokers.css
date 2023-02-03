@@ -1,0 +1,43 @@
+.broker{
+    margin-left: 30px;
+    padding: 15px;
+    margin-top: 15px;
+    border: solid cornflowerblue 3px;
+    border-radius: 5px;
+    width: 600px;
+    position: relative;
+}
+
+.broker button{
+    margin-top: 10px;
+}
+
+.broker-add{
+    margin-left: 30px;
+    padding: 15px;
+    margin-top: 15px;
+    border: solid cornflowerblue 3px;
+    border-radius: 5px;
+    width: 600px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+}
+
+.add-info{
+    width: 50%;
+    margin: auto;
+}
+
+.broker-add input{
+    margin-bottom: 10px;
+}
+.broker .actions button{
+    right: 30px;
+    width: 25%;
+    position: absolute;
+    top: 50px;
+}

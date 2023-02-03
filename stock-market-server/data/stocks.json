@@ -1,0 +1,42 @@
+[
+  {
+    "label": "AAPL",
+    "name": "Apple Inc.",
+    "startPrice": 20
+  },
+  {
+    "label": "SBUX",
+    "name": "Starbucks, Inc.",
+    "startPrice": 10
+  },
+  {
+    "label": "MSFT",
+    "name": "Microsoft, Inc.",
+    "startPrice": 30
+  },
+  {
+    "label": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "startPrice": 25
+  },
+  {
+    "label": "QCOM",
+    "name": " QUALCOMM Incorporated",
+    "startPrice": 7
+  },
+  {
+    "label": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "startPrice": 50
+  },
+  {
+    "label": "TSLA",
+    "name": "Tesla, Inc.",
+    "startPrice": 75
+  },
+  {
+    "label": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "startPrice": 40
+  }
+]

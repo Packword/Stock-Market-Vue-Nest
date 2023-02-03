@@ -1,0 +1,50 @@
+.beforeEmulate {
+    text-align: center;
+    border: solid 3px darkslategrey;
+    border-radius: 5px;
+    padding: 20px;
+    width: 50%;
+    background-color: blanchedalmond;
+}
+.beforeEmulate input{
+    margin-left: 25%;
+}
+.beforeEmulate input, .beforeEmulate button {
+    margin-top: 10px;
+}
+.container {
+    z-index: -999;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+    font-size: 16pt;
+}
+.emulate table{
+    margin-top: 20px;
+    border: 2px solid black;
+}
+.emulate table tr{
+    border-bottom: 2px solid black;
+}
+.emulate table td{
+    padding: 5px;
+}
+
+.emulate{
+    text-align: center;
+    border: solid 3px darkslategrey;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+
+.emulate button{
+    margin-top: 20px;
+}

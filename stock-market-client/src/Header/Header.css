@@ -1,0 +1,11 @@
+a{
+    cursor: pointer;
+}
+nav{
+    font-size: 16pt;
+}
+
+.navbar-brand{
+    font-size: 20pt;
+    padding-left: 30px;
+}
